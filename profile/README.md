@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://superuser.id">
-  <img src="icon.svg" width="200" height="200" alt="SuperUser.id Logo"/>
+  <img src="https://raw.githubusercontent.com/superuid/.github/refs/heads/main/profile/icon.svg" width="200" height="200" alt="SuperUser.id Logo"/>
   </a>
 </div>
 
